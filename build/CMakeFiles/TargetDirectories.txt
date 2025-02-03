@@ -1,0 +1,3 @@
+/home/tompotioubuntu/Documents/Cours/L3/S2/Stage/Mythical_Conquests_Chronicles/build/CMakeFiles/MCC.dir
+/home/tompotioubuntu/Documents/Cours/L3/S2/Stage/Mythical_Conquests_Chronicles/build/CMakeFiles/edit_cache.dir
+/home/tompotioubuntu/Documents/Cours/L3/S2/Stage/Mythical_Conquests_Chronicles/build/CMakeFiles/rebuild_cache.dir

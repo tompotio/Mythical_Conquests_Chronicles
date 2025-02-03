@@ -1,0 +1,119 @@
+{
+    "tilesInfos": [
+        {
+            "textureName": "../assets/tiles/grass/grass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/rock/rock.png",
+            "tileType": 1,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/sand/sand.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/water/water.png",
+            "tileType": 2,
+            "animated": [true, 8, 0.25]
+        },
+        {
+            "textureName": "../assets/tiles/grass/LeftUpGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/UpGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/RightUpGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/LeftUpGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/LeftGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/MiddleGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/RightGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/LeftDownGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/DownGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/RightDownGrass.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/other/LeftUpTree1.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/other/RightUpTree1.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/other/LeftMiddleTree1.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/other/RightMiddleTree1.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/other/LeftMiddle2Tree1.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/other/RightMiddle2Tree1.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/other/DownLeftTree1.png",
+            "tileType": 1,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/other/DownRightTree1.png",
+            "tileType": 1,
+            "animated": [false, 0, 0.0]
+        },
+        {
+            "textureName": "../assets/tiles/grass/Grass2.png",
+            "tileType": 0,
+            "animated": [false, 0, 0.0]
+        }
+    ]
+}
